@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1em;
+}
+
+main {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5em 1em;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.styled {
+    color: blue;
+    font-style: italic;
+    background-color: lightyellow;
+    padding: 5px;
+}
+
+.new-element {
+    background-color: lightgreen;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
